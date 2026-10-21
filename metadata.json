@@ -1,0 +1,6 @@
+{
+  "name": "Solar System Gravity Simulator",
+  "description": "Interactive Newtonian N-body Solar System gravity simulation exploring gravitational forces, orbital mechanics, planetary interactions, and physics equations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
